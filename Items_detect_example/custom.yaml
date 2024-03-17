@@ -1,0 +1,6 @@
+path: /Users/artemS/PycharmProjects/items_detection_cupIt_2024/data
+train: images/train
+val: images/train
+
+nc: 2
+names: ['ariel_bottle', 'price_tag']
